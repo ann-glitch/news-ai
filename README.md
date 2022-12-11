@@ -8,4 +8,4 @@
 yarn && npm start
 ```
 ---
-[Live Site](https://vercel.com/ann-glitch/news-ai)
+[Live Site](https://news-5gwczy3ep-ann-glitch.vercel.app/) 
